@@ -1,0 +1,4 @@
+com/javaguide/springboot/WikimediaChangeHandler.class
+com/javaguide/springboot/KafkaTopcConfig.class
+com/javaguide/springboot/WikimediaChangeProducer.class
+com/javaguide/springboot/SpringBootProducerApp.class
